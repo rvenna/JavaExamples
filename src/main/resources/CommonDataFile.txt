@@ -1,0 +1,1 @@
+This is common data file, any file should be in the directory that is in the classpath.
